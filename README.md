@@ -21,3 +21,6 @@ The system does not trust a single sensor. It uses a weighted approach based on 
   -LiDAR : Medium trust; active laser sensing but prone to particle scatter.
 
   -Barometer : High trust; atmospheric pressure is the most reliable ground truth during Mars storms.
+
+![MATEI Dashboard](1.png)
+![MATEI Dashboard](2.png)
