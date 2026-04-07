@@ -23,4 +23,4 @@ The system does not trust a single sensor. It uses a weighted approach based on 
   -Barometer : High trust; atmospheric pressure is the most reliable ground truth during Mars storms.
 
 ![MATEI Dashboard](1.png)
-![MATEI Dashboard](2.png)
+![MATEI Dashboard](3.png)
